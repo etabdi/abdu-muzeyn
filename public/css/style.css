@@ -421,7 +421,7 @@ h6 {
 
 .nav-menu ul li a {
     padding: 10px;
-    color: #333;
+    color: rgb(50, 9, 230);
     transition: 0.3s;
     display: block;
     font-size: 13px;
